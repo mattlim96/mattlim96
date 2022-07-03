@@ -1,3 +1,5 @@
-### Hi there 👋, I'm Mattheus 👨‍💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattlim96)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 GitHub Stats
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=mattlim96&show_icons=true&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattlim96&layout=compact&show_icons=true&theme=vue" />
+</div>
